@@ -1,4 +1,4 @@
-/*
+
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
@@ -115,7 +115,7 @@ int main()
 	cout<<endl<<endl;
 	display(head);	
 }
-*/
+
 
 
 
